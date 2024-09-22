@@ -8,3 +8,8 @@ causing the DVD to reset!
 Usually, the error message is: 'A program cannot be read. Please consult a dealer.'"
 
 ![image](https://github.com/ghindavadim/Car-DVD-Player-Driver/assets/112102922/c9e1acb6-f458-4e95-aa33-14a15e2e4c55)
+
+# © All rights reserved by Ghindă Vadim.
+
+Instagram : https://www.instagram.com/ghinda_vadim/
+Linkedin : https://www.linkedin.com/in/vadimghinda/
